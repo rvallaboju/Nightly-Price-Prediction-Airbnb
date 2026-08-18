@@ -1,0 +1,450 @@
+,price,beds,accommodates,bedrooms,bathrooms,amenities_count,room_type,property_type,neighbourhood_cleansed,minimum_nights
+0,80.43,2,4,2,1,8,Entire home/apt,Entire rental unit,THIRD WARD,28
+1,211,1,3,1,1,32,Entire home/apt,Entire rental unit,SIXTH WARD,1
+2,97,1,2,1,1,40,Entire home/apt,Entire rental unit,SECOND WARD,1
+3,160,1,2,1,1,43,Entire home/apt,Entire rental unit,SIXTH WARD,1
+4,86,2,2,1,1,28,Private room,Private room in rental unit,SECOND WARD,1
+5,58,1,1,1,1,23,Private room,Private room in guest suite,FOURTEENTH WARD,1
+6,277.31,4,10,3,2,80,Entire home/apt,Entire place,FIFTEENTH WARD,1
+7,62.87,1,1,1,1.5,28,Private room,Private room in home,ELEVENTH WARD,15
+8,64,2,1,1,1,45,Private room,Private room in rental unit,SIXTH WARD,5
+9,313,4,6,4,2,52,Entire home/apt,Entire home,FIFTEENTH WARD,2
+10,51.89,1,1,1,1,43,Private room,Private room in home,TENTH WARD,18
+11,394,2,7,2,2,42,Entire home/apt,Entire home,FIFTEENTH WARD,1
+12,68.5,1,2,1,1,37,Private room,Private room in home,NINTH WARD,2
+13,92,1,2,1,1,25,Private room,Private room in guest suite,FOURTEENTH WARD,1
+14,60.67,1,1,1,1.5,31,Private room,Private room in home,FIFTH WARD,15
+15,52.43,1,1,1,1,44,Private room,Private room in home,TENTH WARD,1
+16,411.5,3,6,2,1,84,Entire home/apt,Entire home,FIFTEENTH WARD,2
+17,92,1,2,1,1,29,Private room,Private room in home,NINTH WARD,1
+18,388,6,9,5,2,39,Entire home/apt,Entire home,FOURTEENTH WARD,4
+19,246.49,3,6,2,1,46,Entire home/apt,Entire home,FIFTEENTH WARD,1
+20,194,2,4,1,1,47,Entire home/apt,Entire rental unit,SEVENTH WARD,2
+21,128.5,1,2,1,1,34,Entire home/apt,Entire home,NINTH WARD,2
+22,51.23,1,2,1,1,46,Private room,Private room in home,THIRTEENTH WARD,18
+23,131.5,1,2,1,1,44,Entire home/apt,Entire rental unit,NINTH WARD,2
+24,845.75,5,10,4,1,61,Entire home/apt,Entire home,FIFTEENTH WARD,4
+25,114.33,2,4,1,1,36,Entire home/apt,Entire rental unit,TENTH WARD,3
+27,49,1,1,1,1,44,Private room,Private room in home,ELEVENTH WARD,20
+28,103,1,2,1,1,34,Private room,Private room in home,NINTH WARD,2
+29,97,1,2,1,1,34,Private room,Private room in guest suite,NINTH WARD,2
+30,115,3,2,1,1,42,Entire home/apt,Entire guest suite,SIXTH WARD,1
+31,137,1,4,1,1,35,Entire home/apt,Entire rental unit,SIXTH WARD,2
+32,100,1,2,1,1,43,Private room,Private room in rental unit,NINTH WARD,2
+33,342.5,5,4,2,1.5,36,Entire home/apt,Entire home,EIGHTH WARD,2
+34,69,1,2,1,1,26,Private room,Private room in rental unit,NINTH WARD,1
+35,142,2,5,1,1,55,Entire home/apt,Entire loft,SECOND WARD,1
+36,119,2,3,1,1,52,Entire home/apt,Entire rental unit,SECOND WARD,1
+37,195,1,2,1,1,52,Private room,Private room in home,FOURTH WARD,1
+38,186,1,2,1,1,39,Entire home/apt,Entire rental unit,SIXTH WARD,1
+39,100,1,1,1,1,30,Private room,Private room in home,NINTH WARD,2
+41,202.67,2,4,2,1,39,Private room,Private room in home,FOURTH WARD,3
+42,188,3,6,2,1,56,Entire home/apt,Entire rental unit,SECOND WARD,1
+43,186,2,6,2,1,51,Entire home/apt,Entire rental unit,SECOND WARD,1
+44,69,1,2,1,1,31,Private room,Private room in home,SEVENTH WARD,1
+45,145,1,2,1,1,45,Entire home/apt,Entire rental unit,SECOND WARD,2
+46,97.07,2,4,2,1,40,Entire home/apt,Entire rental unit,THIRTEENTH WARD,30
+47,75,1,1,1,1.5,45,Private room,Private room in home,EIGHTH WARD,1
+48,230,2,4,2,1,35,Entire home/apt,Entire rental unit,SIXTH WARD,1
+49,131.8,1,4,1,1,43,Entire home/apt,Entire rental unit,NINTH WARD,5
+50,303,2,4,2,1,38,Entire home/apt,Entire rental unit,FOURTH WARD,1
+51,137,3,5,2,1,41,Entire home/apt,Entire rental unit,THIRTEENTH WARD,3
+52,177,3,4,1,1,51,Entire home/apt,Entire home,FOURTH WARD,1
+53,132.4,2,4,2,1,49,Entire home/apt,Entire rental unit,SIXTH WARD,7
+54,77.54,2,4,3,1,15,Entire home/apt,Entire rental unit,NINTH WARD,70
+55,294.42,3,6,3,1.5,54,Entire home/apt,Entire home,FIRST WARD,1
+56,293,2,4,2,1,56,Entire home/apt,Entire rental unit,SECOND WARD,1
+57,301,2,3,1,1,35,Entire home/apt,Entire rental unit,SIXTH WARD,1
+59,370.5,3,6,3,1,62,Entire home/apt,Entire home,EIGHTH WARD,2
+60,140,1,4,2,1,34,Entire home/apt,Entire rental unit,SIXTH WARD,1
+61,159,2,4,1,1,47,Entire home/apt,Entire rental unit,SIXTH WARD,1
+62,173.54,2,4,2,1,24,Entire home/apt,Entire rental unit,EIGHTH WARD,13
+63,168,1,3,1,1,26,Entire home/apt,Entire rental unit,FOURTEENTH WARD,1
+64,166,3,4,2,1,38,Entire home/apt,Entire loft,SECOND WARD,1
+65,217,1,3,1,1,44,Entire home/apt,Entire rental unit,SECOND WARD,1
+66,217,1,3,1,1,41,Entire home/apt,Entire rental unit,SECOND WARD,1
+67,234,2,4,2,1,44,Entire home/apt,Entire rental unit,SECOND WARD,1
+68,331,2,4,2,1,41,Entire home/apt,Entire home,NINTH WARD,1
+69,133.67,2,5,2,1,24,Entire home/apt,Entire rental unit,THIRTEENTH WARD,3
+70,180,1,2,1,1,46,Entire home/apt,Entire rental unit,SIXTH WARD,1
+71,121.73,1,3,1,1,29,Entire home/apt,Entire rental unit,FOURTEENTH WARD,3
+72,150,1,3,1,1,71,Private room,Private room in home,THIRTEENTH WARD,1
+73,197.67,3,3,2,1,24,Entire home/apt,Entire rental unit,THIRD WARD,1
+74,218,2,4,1,1,50,Entire home/apt,Entire rental unit,THIRD WARD,1
+75,264.75,4,6,3,1,57,Entire home/apt,Entire home,TENTH WARD,1
+76,276,3,6,2,1,60,Entire home/apt,Entire rental unit,THIRD WARD,1
+77,86,1,1,1,1,35,Private room,Private room in home,NINTH WARD,2
+78,1040.5,7,13,6,5.5,66,Entire home/apt,Entire home,THIRTEENTH WARD,1
+79,149,1,2,1,1,43,Entire home/apt,Entire rental unit,SIXTH WARD,2
+80,126.5,1,2,1,1,55,Entire home/apt,Entire rental unit,SIXTH WARD,2
+81,215,1,3,1,1,46,Entire home/apt,Entire rental unit,FOURTH WARD,1
+82,188.5,2,3,1,1,53,Entire home/apt,Entire rental unit,ELEVENTH WARD,2
+83,207.33,2,4,2,1,45,Entire home/apt,Entire rental unit,SIXTH WARD,3
+84,96,1,1,1,1,64,Private room,Private room in home,FIFTEENTH WARD,3
+85,217,1,2,1,1,49,Entire home/apt,Entire rental unit,FOURTH WARD,1
+86,112,1,2,1,1,41,Entire home/apt,Room in aparthotel,THIRD WARD,1
+87,126,1,2,1,1,45,Entire home/apt,Entire rental unit,TENTH WARD,1
+88,165.5,1,3,1,1,49,Entire home/apt,Entire rental unit,FOURTH WARD,1
+89,161.5,1,2,1,1,44,Entire home/apt,Entire rental unit,THIRD WARD,2
+90,195.67,2,5,2,1,51,Entire home/apt,Entire townhouse,FIRST WARD,3
+91,118,1,2,1,1,37,Entire home/apt,Entire guest suite,SIXTH WARD,1
+92,149,1,2,1,1,15,Entire home/apt,Entire rental unit,SIXTH WARD,2
+93,268,3,6,3,1,47,Entire home/apt,Entire home,NINTH WARD,2
+94,819,7,12,5,2.5,39,Entire home/apt,Entire home,TENTH WARD,1
+95,217,1,3,1,1,48,Entire home/apt,Entire rental unit,FOURTH WARD,1
+96,154,2,4,1,1,47,Entire home/apt,Entire rental unit,SIXTH WARD,1
+97,315,5,9,5,1.5,58,Entire home/apt,Entire vacation home,FOURTEENTH WARD,1
+98,177,1,2,1,1,46,Entire home/apt,Entire rental unit,SIXTH WARD,1
+99,269,2,5,2,2,48,Entire home/apt,Entire rental unit,FOURTH WARD,1
+100,700.5,6,10,4,2,76,Entire home/apt,Entire cottage,FIFTEENTH WARD,1
+102,146,1,2,1,1,44,Entire home/apt,Entire rental unit,TENTH WARD,1
+103,183,3,4,2,1,41,Entire home/apt,Entire rental unit,SIXTH WARD,1
+104,173,1,2,1,1,49,Entire home/apt,Entire rental unit,SIXTH WARD,1
+106,143.67,2,6,2,1.5,49,Entire home/apt,Entire townhouse,NINTH WARD,3
+107,136.67,1,3,1,1,42,Entire home/apt,Entire rental unit,TENTH WARD,3
+108,95.17,2,2,1,1,42,Entire home/apt,Entire rental unit,NINTH WARD,5
+109,107.69,1,2,1,1,35,Entire home/apt,Entire rental unit,SECOND WARD,13
+110,124,1,2,1,1,75,Private room,Private room in home,THIRTEENTH WARD,1
+111,177,1,2,1,1,51,Entire home/apt,Entire rental unit,SIXTH WARD,1
+112,151.69,1,2,1,1,19,Entire home/apt,Entire rental unit,SECOND WARD,13
+113,1701,4,12,4,3.5,61,Entire home/apt,Entire home,FOURTEENTH WARD,1
+114,208,1,2,1,1,47,Entire home/apt,Entire rental unit,SECOND WARD,1
+115,93.67,2,1,2,1,17,Private room,Private room in rental unit,THIRD WARD,3
+117,1267,1,4,1,1,52,Entire home/apt,Entire rental unit,SECOND WARD,1
+118,215.86,1,2,1,1,19,Entire home/apt,Entire rental unit,SECOND WARD,14
+119,213.8,4,4,4,1,53,Entire home/apt,Entire home,FIRST WARD,5
+120,175.51,3,4,4,1.5,59,Entire home/apt,Entire home,FIRST WARD,7
+122,149,1,2,1,1,45,Entire home/apt,Entire condo,SIXTH WARD,1
+123,84.47,1,2,1,1,51,Entire home/apt,Entire rental unit,ELEVENTH WARD,31
+124,436,2,4,2,2,62,Entire home/apt,Entire condo,SECOND WARD,2
+125,290,5,7,3,1,44,Entire home/apt,Entire guest suite,THIRTEENTH WARD,2
+126,145.33,1,2,1,1,42,Entire home/apt,Entire rental unit,THIRTEENTH WARD,3
+127,231.54,1,2,1,1,33,Entire home/apt,Entire rental unit,SECOND WARD,13
+128,227.5,2,4,2,1,49,Entire home/apt,Entire rental unit,THIRTEENTH WARD,2
+129,155,1,4,1,1,49,Entire home/apt,Entire rental unit,THIRD WARD,1
+130,29.87,1,1,1,1,13,Private room,Private room in rental unit,SIXTH WARD,30
+131,403,4,6,4,1,49,Entire home/apt,Entire rental unit,TENTH WARD,1
+132,86,1,1,1,1,49,Private room,Private room in home,NINTH WARD,2
+133,147,1,2,1,1,48,Entire home/apt,Entire rental unit,SEVENTH WARD,2
+134,55.4,2,1,1,1,45,Private room,Private room in rental unit,SIXTH WARD,20
+135,103.6,1,2,1,1,42,Entire home/apt,Entire rental unit,SIXTH WARD,7
+136,249,2,4,2,1,38,Entire home/apt,Entire rental unit,THIRTEENTH WARD,2
+137,183,1,4,1,1,16,Entire home/apt,Entire rental unit,SIXTH WARD,1
+138,115,1,1,1,1,63,Private room,Private room in home,TENTH WARD,1
+139,91.4,1,2,1,1,37,Entire home/apt,Entire rental unit,FOURTEENTH WARD,4
+140,78,1,1,1,2,13,Private room,Private room in home,FOURTEENTH WARD,1
+141,81.47,1,2,1,1,28,Entire home/apt,Entire rental unit,THIRD WARD,30
+142,86.95,1,2,1,1,35,Entire home/apt,Entire rental unit,SIXTH WARD,30
+143,148.5,1,4,1,1,53,Entire home/apt,Entire rental unit,FIFTH WARD,2
+144,292.14,4,8,3,2,54,Entire home/apt,Entire home,FOURTEENTH WARD,1
+145,137.33,3,6,3,1,45,Entire home/apt,Entire rental unit,FIFTH WARD,1
+146,840,8,15,7,7,56,Shared room,Shared room in bed and breakfast,NINTH WARD,1
+147,167,1,2,1,1,36,Private room,Private room in bed and breakfast,NINTH WARD,1
+148,68.5,1,2,1,1,38,Private room,Private room in home,TENTH WARD,2
+149,190,1,2,1,1,38,Private room,Private room in bed and breakfast,SIXTH WARD,1
+151,179,2,2,1,1,41,Private room,Private room in bed and breakfast,NINTH WARD,1
+152,167,1,2,1,1,46,Private room,Private room in bed and breakfast,NINTH WARD,1
+153,109.83,2,4,2,1,30,Entire home/apt,Entire rental unit,NINTH WARD,30
+154,62.8,1,2,1,1,38,Private room,Private room in rental unit,THIRTEENTH WARD,5
+155,153,1,2,1,1,15,Entire home/apt,Entire rental unit,SIXTH WARD,1
+156,13.25,1,1,1,1,40,Private room,Private room in home,FOURTEENTH WARD,90
+157,236,2,5,2,1,41,Entire home/apt,Entire rental unit,NINTH WARD,1
+158,363,5,9,5,2,55,Entire home/apt,Entire home,FIFTEENTH WARD,2
+159,137,2,4,2,1,9,Entire home/apt,Entire rental unit,SIXTH WARD,3
+160,137,2,4,2,1,17,Entire home/apt,Entire rental unit,SIXTH WARD,3
+161,113.64,2,4,3,1,15,Entire home/apt,Entire rental unit,SIXTH WARD,14
+162,587,5,8,4,2,71,Entire home/apt,Entire home,FIRST WARD,1
+163,266,3,7,3,2,36,Entire home/apt,Entire rental unit,TWELFTH WARD,2
+164,236,1,3,2,2,32,Entire home/apt,Entire rental unit,SIXTH WARD,3
+165,160,2,3,1,1,73,Private room,Private room in townhouse,SECOND WARD,1
+166,97,1,1,1,1.5,49,Private room,Private room in home,THIRTEENTH WARD,4
+167,137,1,2,1,1,43,Entire home/apt,Entire rental unit,THIRD WARD,3
+168,13.18,1,1,1,1,36,Private room,Private room in home,FOURTEENTH WARD,90
+169,144,1,2,1,1,32,Entire home/apt,Entire rental unit,SIXTH WARD,1
+170,123.5,1,3,1,1,30,Entire home/apt,Entire rental unit,TENTH WARD,1
+171,48.71,2,1,1,1,39,Private room,Private room in rental unit,THIRD WARD,7
+172,50.29,1,1,1,1.5,26,Private room,Private room in rental unit,THIRD WARD,7
+173,190,3,5,2,1,41,Entire home/apt,Entire rental unit,THIRD WARD,2
+174,307.08,7,13,5,2,55,Entire home/apt,Entire home,TENTH WARD,2
+175,257,2,5,2,1,49,Entire home/apt,Entire rental unit,SEVENTH WARD,1
+176,46.39,1,1,1,1,46,Private room,Private room in home,TENTH WARD,30
+177,196.28,2,5,2,2,57,Entire home/apt,Entire rental unit,THIRTEENTH WARD,1
+178,300.36,4,8,4,1,54,Entire home/apt,Entire home,TENTH WARD,1
+179,72.53,3,2,1,1,44,Entire home/apt,Entire rental unit,FOURTEENTH WARD,28
+180,92,1,1,1,1,60,Private room,Private room in home,TENTH WARD,1
+181,107,1,2,1,1,6,Private room,Private room in rental unit,FIFTH WARD,1
+182,102.54,1,2,1,1,34,Entire home/apt,Entire rental unit,THIRD WARD,7
+184,171.5,2,4,2,1,43,Entire home/apt,Entire rental unit,THIRTEENTH WARD,2
+185,167,1,2,1,1,33,Private room,Private room in bed and breakfast,SIXTH WARD,1
+186,174,1,2,1,1,17,Private room,Room in hotel,SIXTH WARD,1
+187,174,1,2,1,1,23,Private room,Room in hotel,TENTH WARD,1
+189,174,1,2,1,1,22,Private room,Room in hotel,SIXTH WARD,1
+190,292,1,2,1,1,25,Private room,Room in hotel,SIXTH WARD,1
+191,280,1,2,1,1,14,Private room,Room in hotel,TENTH WARD,1
+192,241,1,2,1,1,22,Private room,Room in hotel,SIXTH WARD,1
+194,241,1,2,1,1,25,Private room,Room in hotel,TENTH WARD,1
+195,331,1,2,1,1,26,Private room,Room in hotel,SIXTH WARD,1
+196,431,4,6,3,2,42,Entire home/apt,Entire guesthouse,TENTH WARD,1
+197,75.6,1,1,1,1,43,Private room,Private room in home,ELEVENTH WARD,5
+198,61.4,1,1,1,1,36,Private room,Private room in home,THIRTEENTH WARD,5
+199,71.8,1,2,1,2,34,Private room,Private room in home,ELEVENTH WARD,5
+200,287,2,4,2,1,46,Entire home/apt,Entire rental unit,SIXTH WARD,1
+202,184,1,2,1,1,39,Entire home/apt,Entire rental unit,SIXTH WARD,1
+204,160.17,2,4,2,1,53,Entire home/apt,Entire rental unit,FIFTEENTH WARD,3
+205,90,1,2,1,4,53,Private room,Private room in home,FOURTEENTH WARD,1
+206,177,3,2,2,1,53,Entire home/apt,Entire rental unit,SIXTH WARD,1
+207,208.5,4,4,2,1,55,Entire home/apt,Entire rental unit,FIFTH WARD,2
+208,108.77,2,3,1,1,20,Entire home/apt,Entire rental unit,THIRD WARD,30
+209,144,1,1,1,1,30,Entire home/apt,Entire rental unit,SIXTH WARD,1
+210,177,2,4,2,1,43,Entire home/apt,Entire rental unit,FOURTEENTH WARD,3
+211,625,5,8,5,3.5,64,Entire home/apt,Entire home,SEVENTH WARD,2
+213,161,1,2,1,0,45,Entire home/apt,Entire rental unit,THIRD WARD,1
+214,257.91,3,6,3,2,48,Entire home/apt,Entire home,EIGHTH WARD,2
+215,355,4,12,4,3,57,Entire home/apt,Entire rental unit,SECOND WARD,1
+217,80,1,1,1,3,32,Private room,Private room in home,THIRTEENTH WARD,1
+218,84,1,1,1,3,61,Private room,Private room in home,THIRTEENTH WARD,1
+219,73,1,2,1,4,65,Private room,Private room in home,FOURTEENTH WARD,1
+220,1265,10,16,9,4,70,Entire home/apt,Entire home,THIRTEENTH WARD,1
+221,86,1,1,1,3,52,Private room,Private room in home,FOURTEENTH WARD,1
+222,34.92,1,2,1,0.5,7,Private room,Private room in villa,NINTH WARD,1
+223,199,1,3,1,1,44,Entire home/apt,Entire rental unit,SIXTH WARD,1
+224,75,1,2,1,3,52,Private room,Private room in home,FOURTEENTH WARD,1
+225,86,1,2,1,3,52,Private room,Private room in home,THIRTEENTH WARD,1
+226,164,1,2,1,1,33,Entire home/apt,Entire rental unit,SIXTH WARD,1
+227,123,1,2,1,1,39,Entire home/apt,Entire rental unit,SECOND WARD,1
+228,216,1,3,1,1,40,Entire home/apt,Entire rental unit,THIRD WARD,1
+229,216,1,3,1,1,39,Entire home/apt,Entire rental unit,THIRD WARD,1
+231,171,2,4,2,1,34,Entire home/apt,Entire rental unit,SECOND WARD,1
+232,92.55,2,4,2,1,35,Entire home/apt,Entire home,FIRST WARD,30
+234,531,5,16,5,4,60,Entire home/apt,Entire townhouse,SECOND WARD,1
+235,82.25,1,1,1,1.5,48,Private room,Private room in home,THIRTEENTH WARD,4
+237,88.07,1,4,1,1,31,Entire home/apt,Entire rental unit,THIRD WARD,14
+238,130.5,1,2,1,1.5,41,Entire home/apt,Entire rental unit,SECOND WARD,2
+239,132,1,2,1,1,34,Entire home/apt,Entire rental unit,SIXTH WARD,2
+240,147.59,2,5,2,1,35,Entire home/apt,Entire rental unit,FOURTEENTH WARD,3
+241,181,1,2,1,1,21,Entire home/apt,Entire rental unit,SIXTH WARD,1
+242,97,1,2,1,3,58,Private room,Private room in home,THIRTEENTH WARD,1
+244,125,2,5,1,1,52,Entire home/apt,Entire rental unit,THIRD WARD,2
+245,118.33,2,4,2,1,30,Entire home/apt,Entire home,FOURTEENTH WARD,3
+246,195,2,2,1,0,39,Entire home/apt,Entire rental unit,SIXTH WARD,1
+247,210,2,2,1,1,46,Entire home/apt,Entire rental unit,SIXTH WARD,1
+248,313.5,1,2,1,1,24,Entire home/apt,Entire rental unit,SIXTH WARD,2
+249,218.54,2,4,2,1,32,Entire home/apt,Entire townhouse,FIFTEENTH WARD,2
+250,116.33,1,2,1,1,43,Entire home/apt,Entire rental unit,SECOND WARD,3
+251,137,1,2,1,1.5,54,Entire home/apt,Entire home,SECOND WARD,5
+252,85.6,1,3,1,1,42,Entire home/apt,Entire rental unit,SEVENTH WARD,25
+253,206,2,4,2,1,35,Entire home/apt,Entire rental unit,FIFTEENTH WARD,1
+254,90.07,1,2,2,1,34,Entire home/apt,Entire rental unit,THIRD WARD,14
+255,46.25,1,1,1,2,22,Private room,Private room in rental unit,THIRTEENTH WARD,28
+256,78.17,1,1,1,1,45,Private room,Private room in home,THIRTEENTH WARD,6
+257,37.53,1,1,1,0,23,Private room,Private room in guesthouse,THIRTEENTH WARD,28
+259,181.5,2,2,1,1,33,Entire home/apt,Entire rental unit,THIRTEENTH WARD,2
+260,157,3,4,1,1,43,Entire home/apt,Entire rental unit,SIXTH WARD,1
+261,128,3,4,1,1,43,Entire home/apt,Entire rental unit,SIXTH WARD,2
+262,164,1,3,1,1,11,Entire home/apt,Entire rental unit,SIXTH WARD,2
+263,71.82,1,1,1,1.5,47,Private room,Private room in home,TENTH WARD,28
+264,108.43,1,2,1,1,13,Entire home/apt,Entire rental unit,THIRD WARD,30
+265,216,1,3,1,1,43,Entire home/apt,Entire rental unit,SEVENTH WARD,1
+266,235,2,4,2,2,37,Entire home/apt,Entire rental unit,SIXTH WARD,2
+267,399.5,4,6,4,2,37,Entire home/apt,Entire home,SEVENTH WARD,2
+269,200,1,2,1,1,44,Entire home/apt,Entire rental unit,SIXTH WARD,1
+270,277,1,2,1,1,45,Entire home/apt,Entire rental unit,SIXTH WARD,1
+271,187,1,2,1,1,45,Entire home/apt,Entire rental unit,SIXTH WARD,1
+272,134,2,3,1,1,41,Entire home/apt,Entire rental unit,SIXTH WARD,1
+273,47.04,1,1,1,1.5,48,Private room,Private room in home,FOURTEENTH WARD,28
+274,342.5,5,6,4,1,34,Entire home/apt,Entire home,NINTH WARD,1
+275,183,2,2,2,1,38,Entire home/apt,Entire rental unit,SIXTH WARD,1
+276,179,1,2,1,1,21,Entire home/apt,Entire rental unit,TENTH WARD,1
+277,33.22,1,1,1,0,34,Private room,Private room in home,TENTH WARD,28
+278,293.6,1,2,1,1,34,Entire home/apt,Entire condo,SIXTH WARD,5
+279,71.16,1,1,1,1,48,Private room,Private room in home,TENTH WARD,30
+280,55.12,1,1,8,3,51,Private room,Private room in home,NINTH WARD,30
+281,71.82,1,1,1,1.5,49,Private room,Private room in home,TENTH WARD,28
+282,97,1,1,1,1.5,47,Private room,Private room in home,THIRTEENTH WARD,4
+283,38.48,1,1,1,1,22,Private room,Private room in rental unit,THIRTEENTH WARD,28
+284,86,1,2,1,1,3,Private room,Private room in home,THIRTEENTH WARD,1
+285,194,3,5,3,1,37,Entire home/apt,Entire rental unit,THIRTEENTH WARD,3
+286,253,2,3,1,1,59,Entire home/apt,Entire rental unit,SIXTH WARD,1
+288,192.5,1,2,1,1,36,Entire home/apt,Entire rental unit,SIXTH WARD,1
+289,69,1,1,1,1,12,Private room,Private room in rental unit,SECOND WARD,1
+291,312.5,2,6,3,2,46,Entire home/apt,Entire home,EIGHTH WARD,4
+292,77.49,1,1,1,1.5,50,Private room,Private room in home,TENTH WARD,21
+293,182,1,2,1,1,35,Entire home/apt,Entire rental unit,SIXTH WARD,1
+294,55.24,1,1,1,1,47,Private room,Private room in home,TENTH WARD,30
+295,263,2,5,2,1,49,Entire home/apt,Entire rental unit,SEVENTH WARD,1
+296,149.5,1,2,1,1,35,Entire home/apt,Entire rental unit,SIXTH WARD,1
+298,145,1,2,1,1,42,Entire home/apt,Entire rental unit,SIXTH WARD,1
+300,85.12,1,4,2,1,26,Entire home/apt,Entire home,THIRD WARD,1
+301,52,1,1,2,1.5,15,Private room,Private room in townhouse,SECOND WARD,1
+302,36.06,1,1,1,0,28,Private room,Private room in rental unit,THIRD WARD,28
+303,289,2,4,2,1,51,Entire home/apt,Entire home,FOURTH WARD,1
+304,206,1,2,1,1,33,Entire home/apt,Entire rental unit,NINTH WARD,1
+305,46.39,1,1,1,1,53,Private room,Private room in home,TENTH WARD,30
+306,155,2,4,2,1,10,Entire home/apt,Entire rental unit,EIGHTH WARD,13
+307,71.16,1,1,1,1,55,Private room,Private room in home,THIRTEENTH WARD,30
+308,63,1,2,1,1,46,Private room,Private room in rental unit,THIRTEENTH WARD,1
+309,63,1,2,1,1,46,Private room,Private room in rental unit,ELEVENTH WARD,1
+310,230,2,6,2,1,46,Entire home/apt,Entire rental unit,SECOND WARD,1
+311,71.82,1,1,1,1,55,Private room,Private room in home,TENTH WARD,28
+312,71.16,1,1,1,1,55,Private room,Private room in home,TENTH WARD,30
+313,66,1,2,1,1,46,Private room,Private room in rental unit,ELEVENTH WARD,1
+314,95.45,1,2,1,1,15,Entire home/apt,Entire rental unit,SIXTH WARD,31
+315,244.5,3,6,3,1,42,Entire home/apt,Entire rental unit,FIFTEENTH WARD,2
+316,195.5,3,8,3,2,33,Entire home/apt,Entire home,SIXTH WARD,2
+317,160.5,1,2,1,1,6,Entire home/apt,Entire rental unit,SIXTH WARD,2
+318,96.81,1,2,1,1,12,Entire home/apt,Entire rental unit,SIXTH WARD,31
+319,229,3,10,3,1,59,Entire home/apt,Entire rental unit,SECOND WARD,1
+320,158.33,1,2,1,1,20,Entire home/apt,Entire rental unit,SIXTH WARD,1
+321,370.88,3,6,3,1.5,42,Entire home/apt,Entire home,FIFTEENTH WARD,1
+322,93.96,2,4,2,1,34,Entire home/apt,Entire rental unit,THIRD WARD,28
+323,349,3,5,3,1,19,Entire home/apt,Entire home,THIRTEENTH WARD,1
+324,354,4,8,4,2.5,42,Entire home/apt,Entire home,EIGHTH WARD,2
+325,149,4,4,2,1,48,Entire home/apt,Entire rental unit,FOURTH WARD,1
+326,84,1,4,2,1,39,Entire home/apt,Entire rental unit,FIFTH WARD,14
+327,273,3,6,3,1,29,Entire home/apt,Entire home,FIRST WARD,2
+328,164.87,4,8,4,1,37,Entire home/apt,Entire rental unit,TENTH WARD,28
+329,132,2,4,1,1,48,Entire home/apt,Entire rental unit,SIXTH WARD,1
+330,354,6,8,3,2,77,Entire home/apt,Entire home,FOURTEENTH WARD,1
+331,219.57,3,5,3,2.5,22,Entire home/apt,Entire home,FOURTEENTH WARD,7
+332,148,1,2,1,1,39,Entire home/apt,Entire rental unit,SEVENTH WARD,1
+336,148,1,2,1,1,38,Entire home/apt,Entire rental unit,SEVENTH WARD,1
+337,87,2,3,1,1,25,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+338,297,3,5,3,1,55,Entire home/apt,Entire rental unit,FOURTEENTH WARD,1
+340,54.86,3,1,1,1,42,Private room,Private room in rental unit,NINTH WARD,8
+341,88,1,2,1,1,25,Entire home/apt,Entire rental unit,FIFTH WARD,1
+342,56.23,3,1,1,1,38,Private room,Private room in home,NINTH WARD,7
+343,57.2,1,1,1,2,23,Private room,Private room in rental unit,THIRTEENTH WARD,5
+344,38.19,3,1,1,1,41,Private room,Private room in home,FOURTEENTH WARD,28
+345,120,4,5,4,1,39,Entire home/apt,Entire home,TENTH WARD,14
+346,35.75,1,1,1,1,42,Private room,Private room in home,TENTH WARD,28
+347,159,1,2,1,1,32,Entire home/apt,Entire rental unit,FOURTH WARD,2
+348,540,8,12,4,3.5,66,Entire home/apt,Entire home,THIRD WARD,2
+349,258.5,3,6,3,1,32,Entire home/apt,Entire rental unit,THIRTEENTH WARD,2
+350,157,1,2,1,1,24,Entire home/apt,Entire rental unit,THIRD WARD,1
+351,94,2,4,1,1,18,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+352,85,1,2,1,1,22,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+353,117,1,2,1,1,32,Entire home/apt,Entire rental unit,SIXTH WARD,2
+355,242,2,6,2,1,58,Entire home/apt,Entire rental unit,SECOND WARD,1
+356,43.67,1,1,1,1,8,Private room,Private room in rental unit,TENTH WARD,3
+357,220,3,4,3,1,38,Entire home/apt,Entire rental unit,THIRTEENTH WARD,2
+358,180,2,5,2,1,42,Entire home/apt,Entire rental unit,SECOND WARD,1
+359,75,1,2,1,1,32,Entire home/apt,Entire rental unit,SECOND WARD,1
+360,75,1,2,1,1,27,Entire home/apt,Entire rental unit,SECOND WARD,1
+362,107.48,2,4,2,1,11,Entire home/apt,Entire rental unit,NINTH WARD,31
+363,83,1,2,1,1,22,Entire home/apt,Entire rental unit,FIFTH WARD,1
+364,90,1,2,1,1,26,Entire home/apt,Entire rental unit,FIFTH WARD,1
+365,104,1,2,1,1,23,Entire home/apt,Entire rental unit,FIFTH WARD,1
+366,160,1,2,1,1,11,Entire home/apt,Entire rental unit,TENTH WARD,1
+367,81.4,1,2,1,1,40,Entire home/apt,Entire condo,FOURTEENTH WARD,5
+368,309,1,4,2,1,45,Entire home/apt,Entire rental unit,SECOND WARD,1
+369,199,2,4,2,1,42,Entire home/apt,Entire condo,SECOND WARD,1
+370,199,2,4,2,1,39,Entire home/apt,Entire rental unit,SECOND WARD,1
+371,132.71,1,4,1,1,16,Entire home/apt,Entire rental unit,THIRD WARD,14
+372,91,2,2,1,1,23,Entire home/apt,Entire rental unit,FIFTH WARD,1
+373,97,1,2,1,1,18,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+374,139,1,2,1,1,13,Entire home/apt,Entire rental unit,SIXTH WARD,2
+375,171.5,1,2,1,1,51,Entire home/apt,Entire rental unit,FOURTH WARD,1
+376,82.25,1,1,1,1,38,Private room,Private room in home,TENTH WARD,4
+377,77.6,1,1,1,1,38,Private room,Private room in home,TENTH WARD,5
+378,83.14,1,1,1,1,44,Private room,Private room in home,TENTH WARD,21
+379,42.83,1,1,1,1,48,Private room,Private room in home,TENTH WARD,28
+380,120,1,2,1,1,36,Entire home/apt,Entire condo,THIRD WARD,2
+381,485,4,8,3,2.5,43,Entire home/apt,Entire home,NINTH WARD,1
+383,159.69,4,9,4,1,22,Entire home/apt,Entire home,TENTH WARD,28
+384,160,1,2,1,1,37,Entire home/apt,Entire rental unit,SIXTH WARD,1
+385,88,2,4,1,1,23,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+386,83,1,2,1,1,20,Entire home/apt,Entire rental unit,FIFTH WARD,1
+387,87,2,4,1,1,20,Entire home/apt,Entire rental unit,FIFTH WARD,1
+388,90,1,2,1,1,23,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+389,92,2,4,1,1,21,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+390,87,2,4,1,1,23,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+391,115,1,3,1,1,37,Entire home/apt,Entire rental unit,SIXTH WARD,1
+392,295.2,3,8,3,2,69,Entire home/apt,Entire home,THIRD WARD,1
+393,67,1,2,1,1,23,Private room,Private room in rental unit,SIXTH WARD,2
+394,98.54,1,2,1,1,13,Entire home/apt,Entire rental unit,SIXTH WARD,30
+395,126,1,1,1,1,18,Private room,Private room in home,SEVENTH WARD,1
+396,160,1,2,1,1,47,Entire home/apt,Entire rental unit,SIXTH WARD,1
+397,173.7,1,3,1,1,44,Entire home/apt,Entire rental unit,FOURTH WARD,2
+398,127.5,1,3,1,1,41,Entire home/apt,Entire home,SIXTH WARD,2
+399,116,1,2,1,1,42,Entire home/apt,Entire home,SIXTH WARD,2
+400,136.5,1,2,1,1,43,Entire home/apt,Entire rental unit,SIXTH WARD,2
+401,213,1,3,1,1,36,Entire home/apt,Entire rental unit,SIXTH WARD,2
+402,193.23,3,6,3,1,15,Entire home/apt,Entire rental unit,NINTH WARD,7
+403,465,4,8,4,2,47,Entire home/apt,Entire home,TENTH WARD,1
+404,102,1,2,1,1,24,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+405,143,1,2,1,1,20,Entire home/apt,Entire rental unit,SIXTH WARD,1
+406,234,1,2,1,1,32,Entire home/apt,Entire rental unit,SIXTH WARD,1
+407,106,1,2,1,1,62,Private room,Private room in rental unit,NINTH WARD,1
+408,210,2,4,2,1,37,Entire home/apt,Entire rental unit,SIXTH WARD,1
+409,185,2,5,2,1,48,Entire home/apt,Entire home,EIGHTH WARD,1
+410,109,2,4,2,1,45,Private room,Private room in home,NINTH WARD,1
+411,88.56,1,2,1,1,61,Private room,Private room in rental unit,NINTH WARD,1
+412,115,2,4,1,1,7,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+413,105,2,4,1,1,22,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+414,82.16,2,2,2,1,13,Entire home/apt,Entire rental unit,FIRST WARD,1
+415,538.5,2,4,2,2,73,Entire home/apt,Entire serviced apartment,SECOND WARD,2
+416,253,2,4,2,1,49,Entire home/apt,Entire rental unit,FOURTEENTH WARD,1
+417,71.82,1,1,1,2,49,Private room,Private room in home,TENTH WARD,28
+418,119,1,2,1,1,37,Entire home/apt,Entire rental unit,SIXTH WARD,1
+419,71.82,1,1,1,2,47,Private room,Private room in home,TENTH WARD,28
+421,95,2,4,1,1,20,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+422,177,2,2,2,1,36,Entire home/apt,Entire rental unit,SIXTH WARD,1
+423,158.59,3,6,3,1,15,Entire home/apt,Entire rental unit,NINTH WARD,14
+424,148.5,1,2,1,1,28,Entire home/apt,Entire rental unit,SIXTH WARD,2
+425,85,1,2,1,1,20,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+426,126,3,3,1,1,43,Entire home/apt,Entire rental unit,SIXTH WARD,1
+427,77.11,1,1,8,3,49,Private room,Private room in home,NINTH WARD,1
+430,63.05,1,1,4,1.5,42,Private room,Private room in home,NINTH WARD,7
+431,99,1,2,1,1,23,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+432,91,1,2,1,1,20,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+433,203.5,5,8,3,1,33,Entire home/apt,Entire home,THIRTEENTH WARD,4
+434,190,1,2,1,1,25,Entire home/apt,Entire home,THIRD WARD,1
+435,342.5,5,9,4,2,52,Entire home/apt,Entire home,EIGHTH WARD,1
+436,115,6,6,1,1,64,Entire home/apt,Entire townhouse,SECOND WARD,1
+437,269,2,5,2,1.5,28,Entire home/apt,Entire rental unit,SEVENTH WARD,1
+438,208.5,2,4,2,1,52,Entire home/apt,Entire home,EIGHTH WARD,2
+439,185,1,2,1,1,28,Entire home/apt,Entire rental unit,SIXTH WARD,1
+441,83,1,2,1,1,21,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+442,114,1,2,1,1,22,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+443,81,1,2,1,1,21,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+445,147.78,3,6,2,1,33,Entire home/apt,Entire home,FIRST WARD,1
+446,164,1,2,1,1,39,Entire home/apt,Entire rental unit,SIXTH WARD,1
+447,71,2,2,1,1.5,52,Private room,Private room in home,SIXTH WARD,1
+448,77.49,1,1,1,2,50,Private room,Private room in home,TENTH WARD,21
+449,226,4,6,3,1.5,52,Entire home/apt,Entire home,SIXTH WARD,1
+450,287.58,4,8,3,1.5,37,Entire home/apt,Entire home,FOURTEENTH WARD,1
+451,71,1,2,1,1.5,52,Private room,Private room in home,SIXTH WARD,1
+452,71,2,2,1,1.5,55,Private room,Private room in home,SIXTH WARD,1
+453,320,3,6,3,2,19,Entire home/apt,Entire rental unit,SEVENTH WARD,1
+454,158.4,3,6,3,1,35,Entire home/apt,Entire rental unit,THIRTEENTH WARD,5
+455,225,1,2,1,1,34,Entire home/apt,Entire rental unit,NINTH WARD,1
+456,50.03,1,2,1,1,30,Private room,Private room in rental unit,FOURTEENTH WARD,5
+457,46.93,1,2,1,1,29,Private room,Private room in rental unit,FOURTEENTH WARD,5
+458,69.4,1,2,1,1,35,Private room,Private room in rental unit,THIRTEENTH WARD,5
+459,149.5,1,4,2,1,48,Entire home/apt,Entire rental unit,NINTH WARD,2
+460,124,2,4,1,1,30,Hotel room,Room in hotel,THIRD WARD,1
+462,248,4,8,2,2,30,Hotel room,Room in hotel,THIRD WARD,1
+464,372,6,12,3,3,30,Hotel room,Room in hotel,THIRD WARD,1
+466,124,1,2,1,1,30,Hotel room,Room in hotel,THIRD WARD,1
+468,132.67,3,5,2,1,34,Entire home/apt,Entire rental unit,SIXTH WARD,3
+469,166,1,2,1,1,38,Entire home/apt,Entire rental unit,SIXTH WARD,1
+470,160,3,5,3,1,30,Entire home/apt,Entire home,NINTH WARD,1
+471,442,5,8,4,1.5,33,Entire home/apt,Entire home,TENTH WARD,1
+472,131.67,3,5,2,1,34,Entire home/apt,Entire rental unit,SIXTH WARD,3
+473,125,1,4,1,1,35,Entire home/apt,Entire rental unit,SIXTH WARD,1
+474,44.83,1,1,4,1,40,Private room,Private room in home,TENTH WARD,28
+475,89,1,2,1,1,26,Entire home/apt,Entire rental unit,TWELFTH WARD,1
+476,123.5,1,2,1,1,43,Entire home/apt,Entire rental unit,SIXTH WARD,2
+477,208,1,2,1,1,35,Entire home/apt,Entire rental unit,SIXTH WARD,1
+478,42.07,1,1,1,1,10,Private room,Private room in rental unit,ELEVENTH WARD,30
+479,224,2,4,2,1,23,Entire home/apt,Entire rental unit,FIRST WARD,1
+480,96,1,2,1,1,8,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+481,97,1,2,1,1,22,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+482,91,1,2,1,1,10,Entire home/apt,Entire rental unit,ELEVENTH WARD,1
+483,200.16,2,4,1,1,48,Entire home/apt,Entire rental unit,FOURTEENTH WARD,1
+484,206,2,3,2,1,39,Entire home/apt,Entire rental unit,SIXTH WARD,1
+485,149,2,4,1,1,26,Entire home/apt,Entire rental unit,TENTH WARD,1
+486,213,1,2,1,1,7,Entire home/apt,Entire rental unit,SIXTH WARD,1
+487,114.5,1,1,1,2,5,Private room,Private room in rental unit,SIXTH WARD,2
+488,86,1,1,2,2,7,Private room,Private room in rental unit,SIXTH WARD,2
+489,44.75,1,1,1,1,15,Private room,Private room in rental unit,THIRD WARD,28
